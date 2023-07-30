@@ -1,0 +1,14 @@
+@media (min-width: 992px) {
+  #hero {
+    width: 100%;
+    background: url("/assets/img/image3.jpg") center / cover no-repeat;
+    height: 100vh;
+  }
+}
+
+#hero {
+  width: 100%;
+  background: url("/assets/img/Nazar78_Spiderman_d36d210c-8a05-40f6-b766-7fb45607df52.png") center / cover no-repeat;
+  height: 100vh;
+}
+
